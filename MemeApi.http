@@ -1,0 +1,6 @@
+@MemeApi_HostAddress = http://localhost:5070
+
+GET {{MemeApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
