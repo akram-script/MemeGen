@@ -151,3 +151,4 @@ C:\Users\akelo\MemeGenerator\MemeApi\obj\Debug\net10.0\refint\MemeApi.dll
 C:\Users\akelo\MemeGenerator\MemeApi\obj\Debug\net10.0\MemeApi.pdb
 C:\Users\akelo\MemeGenerator\MemeApi\obj\Debug\net10.0\MemeApi.genruntimeconfig.cache
 C:\Users\akelo\MemeGenerator\MemeApi\obj\Debug\net10.0\ref\MemeApi.dll
+C:\Users\akelo\MemeGenerator\MemeApi\obj\Debug\net10.0\MemeApi.sourcelink.json
